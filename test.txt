@@ -16,3 +16,5 @@ test
 在dev分支新增一行
 
 feat-one分支添加了内容
+
+禁用fast forward在dev分支新增内容
